@@ -1,0 +1,1 @@
+this is a training part for me, to understand socketing using python
